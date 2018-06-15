@@ -1,2 +1,6 @@
 # Radio
 telephony.lteOnGsmDevice=0
+
+# Media
+media.stagefright.legacyencoder=true
+media.stagefright.less-secure=true
