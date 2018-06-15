@@ -16,3 +16,4 @@ Device Tree For Samsung Galaxy S3 Neo
 
 
 ![Galaxy S3 Neo](http://cdn2.gsmarena.com/vv/pics/samsung/samsung-i9301l-galaxy-s3-neo.jpg "Galaxy S3 Neo")
+# android_device_samsung_s3ve3g_aex
