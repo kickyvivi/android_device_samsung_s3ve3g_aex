@@ -241,6 +241,7 @@
             64 - Volume rocker
          For example, a device with Home, Back and Menu keys would set this
          config to 7. -->
+    <add-resource type="integer" name="config_deviceHardwareWakeKeys">65</add-resource>
     <integer name="config_deviceHardwareWakeKeys">65</integer>
    
     <!-- Boolean indicating if restoring network selection should be skipped -->
